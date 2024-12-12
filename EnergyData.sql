@@ -21,13 +21,6 @@ SELECT TOP (1000) [country]
   FROM [07Desember2024].[dbo].[EnergyBussiness]
 
 
--- OBJECTIVE
-
--- Mencari tau ttg konsumsi energi (1), perubahan tren (2), dan kontribusi berbagai sumber energi (2)
--- Tujuannya adalah:
--- (1). Memahami pola konsumsi
--- (2). Peluang investasi serta dampak pada bisnis dan lingkungan
-
 
 -- Data Cleaning --
 
